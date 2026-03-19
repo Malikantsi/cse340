@@ -53,8 +53,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 500px;
-  /* Adjust based on your needs */
+  /* min-height: 500px; */
   display: flex;
   align-items: center;
   padding: 2rem;
